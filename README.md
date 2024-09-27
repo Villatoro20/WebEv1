@@ -18,7 +18,7 @@ halcon-materiales-app/
 ├── README.md              # Documentación general del proyecto
 ├── .gitignore             # Lista de archivos/folders que no se subirán al repo
 └── package.json           # Dependencias del proyecto y scripts de npm
-**###Tecnologias Utilizadas**
+**Tecnologias Utilizadas**
 - Front end
   1. React.js (o la tecnología de frontend elegida)
   2. HTML5, CSS3, JavaScript/TypeScript
@@ -31,16 +31,16 @@ halcon-materiales-app/
   1. Git para control de versiones
   2. GitHub Actions (opcional) para CI/CD
   3. Docker (opcional) para contenerización
-**####Scripts disponibles**
+**Scripts disponibles**
 1. npm run dev: Inicia el servidor de desarrollo.
 2. npm run build: Compila el proyecto para producción.
 3. npm run start: Inicia la aplicación en modo producción.
-**#####Funcionalidades futuras**
+**Funcionalidades futuras**
 - Envío de facturas automáticas por correo electrónico.
 - Sistema de notificaciones para los clientes cuando el estado de sus pedidos cambia.
 - Reportes y estadísticas para el administrador.
 - Mejoras en la seguridad (autenticación 2FA, por ejemplo).
-**######Contribuciones**
+**Contribuciones**
 - Haz un fork del repositorio.
 - Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
 - Realiza tus cambios y haz commit (git commit -m "Añadida nueva funcionalidad").
